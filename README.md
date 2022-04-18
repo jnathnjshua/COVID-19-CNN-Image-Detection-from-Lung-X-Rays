@@ -5,3 +5,5 @@ This project aims to take an chest X-Ray image and detect if the patient has the
 "COVID_19_Detector.ipynb" is a python file that can be opened in Google Colab that takes in the data and uses a CNN to process the images.
 
 "xray_check.ipynb" is a python code we found on https://github.com/rani700/xray that shows the visual on how image segmentation can work on chest X-Ray. We included this to show visually what our CNN could be processing in differentiating between COVID lungs or not.
+
+Refer to Final Report.pdf for in depth description of project.
